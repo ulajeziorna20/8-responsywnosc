@@ -40,3 +40,16 @@ figure img{
 		width: 49%;
 	}
 }
+
+@media screen and (max-width: 768px) {
+	figure {
+		width: 100%;}
+}
+
+@media screen and (max-width: 480px){
+	#gallery {
+		width: 100%;
+
+	}
+}
+
